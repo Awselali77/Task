@@ -1,0 +1,58 @@
+hr {
+  width: 80%;
+  border-top: 1px;
+}
+.Steps {
+  background-color: #f8f8f9;
+  width: 18rem;
+
+}
+
+.box {
+  margin-top: 2rem;
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.tab {
+  display: flex;
+  margin: 10px;
+  border-radius: 30px;
+  height: 3.4rem;
+  width: 85%;
+  cursor: pointer;
+}
+
+.tab-n-2 {
+  border: #fd852a;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #f4f4f5;
+}
+
+.icon {
+  margin: auto 6px;
+}
+
+.text-n-1 {
+  font-weight: bold;
+}
+
+.text{
+  font-weight: 400;
+}
+
+.mini-text {
+  color :darkgray;
+  font-size: .8rem;
+  margin-top: 9px;
+  font-weight: 600;
+}
+
+.text-1 {
+  padding: 25px;
+  font-size: 18px;
+  font-weight: 200;
+}

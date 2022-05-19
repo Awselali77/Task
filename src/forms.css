@@ -1,0 +1,45 @@
+.main {
+  margin: 0 auto;
+  margin-top: 8rem;
+  width: 35rem;
+}
+
+.second {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.general {
+  font-weight: bold;
+}
+
+.general-info-box {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border: #19bc4a;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 20px;
+  border-radius: 7px;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%), 0 3px 10px 0 rgb(0 0 0 / 10%);
+}
+
+.radio-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.radio-box {
+  width: 28%;
+  height: 4.5rem;
+  padding: 8px;
+  border: #d9d9d9;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.radio-button {
+  margin-left: 90%;
+}
